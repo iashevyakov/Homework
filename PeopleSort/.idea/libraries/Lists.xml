@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Lists">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Lists/out/artifacts/Lists_jar/Lists.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

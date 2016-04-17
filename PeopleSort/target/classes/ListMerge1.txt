@@ -1,0 +1,6 @@
+5 Salahov
+18 Ibragimov
+21 Shevyakov
+35 Semenov
+47 Popov
+12 Titov
