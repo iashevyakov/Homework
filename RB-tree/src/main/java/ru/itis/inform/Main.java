@@ -1,15 +1,19 @@
 package ru.itis.inform;
 
-/**
- * Created by Иван on 22.04.2016.
- */
+
 public class Main {
-    public static void main (String [] args)
-    {
-        RBtree r = new RBtree();
-        r.insert(10,"10");
-        r.insert(9,"9");
-        r.insert(8,"8");
-        r.show();
+    public static void main(String[] args) {
+        RBtree tree = new RBtree();
+
+        int array[] = {1, 2, 3, 4, 5, 6, 7, 8};
+        for (int i = 0; i < array.length; i++) {
+            tree.insert(array[i]);
+        }
+
+        tree.show();
+
+
+        //tree.isSearchTreePrint();
+        //tree.runIsLevelSum();
     }
 }
