@@ -2,13 +2,21 @@ package ru.itis.inform;
 
 public class Node {
 
-    private int data;
+    private int key;
+    private String value;
     private Node left;
     private Node right;
+    private Node parent;
+    private boolean isRed;
     private int level;
 
-    public Node(int data, int level) {
-        this.data = data;
+
+
+
+
+
+    public Node(int data) {
+        this.key = data;
         this.level = level;
     }
     public int getLevel()
@@ -17,11 +25,11 @@ public class Node {
     }
 
     public int getData() {
-        return data;
+        return key;
     }
 
     public void setData(int data) {
-        this.data = data;
+        this.key = data;
     }
 
     public Node getLeft() {

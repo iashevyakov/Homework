@@ -1,19 +1,20 @@
 package ru.itis.inform;
 
+
 public class BinarySearchTreeImpl  {
 
     private  Node root;
 
-    private Node insertNode(Node root, int element, int level)
+    private Node insertNode(Node root, int element)
     {
         if (root == null) {
-            root = new Node(element,level);
+            root = new Node(element);
 
 
         } else if (element <= root.getData()) {
-            root.setLeft(insertNode(root.getLeft(), element,level));
+            root.setLeft(insertNode(root.getLeft(), element));
         } else {
-            root.setRight(insertNode(root.getRight(), element, level));
+            root.setRight(insertNode(root.getRight(), element));
         }
 
         return root;
@@ -67,8 +68,8 @@ public class BinarySearchTreeImpl  {
         }
     }
 
-    public void insert(int element, int level) {
-        this.root = insertNode(this.root, element, level);
+    public void insert(int element) {
+        this.root = insertNode(this.root, element);
     }
 
     public void show() {
