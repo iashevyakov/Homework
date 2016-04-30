@@ -4,11 +4,11 @@ package ru.itis.inform;
 public class RBtree {
 
         private Node root;
-        private Node inRoot;
+        private Node r;
 
         public void insert(int element) {
             insertNode(null, this.root, element);
-            insert_case1(inRoot);
+            insert_case1(r);
         }
 
         private Node insertNode(Node parent, Node root, int element) {
@@ -24,7 +24,7 @@ public class RBtree {
                         parent.setRight(root);
                     }
                 }
-                inRoot = root;
+                r = root;
             } else if (element <= root.getData()) {
                 root.setLeft(insertNode(root, root.getLeft(), element));
             } else {

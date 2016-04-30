@@ -10,11 +10,6 @@ public class Node {
     private boolean isRed;
     private int level;
 
-
-
-
-
-
     public Node(int data) {
         this.key = data;
         this.level = level;

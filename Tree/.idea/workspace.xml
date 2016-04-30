@@ -27,37 +27,43 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="187">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearchTreeImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinarySearchTreeImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/BinarySearchTreeImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1955">
+            <state relative-caret-position="1921">
               <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
               <folding>
-                <element signature="e#1646#1647#0" expanded="true" />
-                <element signature="e#1704#1705#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="false" />
+                <element signature="e#522#523#0" expanded="false" />
+                <element signature="e#1230#1231#0" expanded="false" />
+                <element signature="e#1264#1265#0" expanded="false" />
+                <element signature="e#1646#1647#0" expanded="false" />
+                <element signature="e#1704#1705#0" expanded="false" />
+                <element signature="e#1730#1731#0" expanded="false" />
+                <element signature="e#1762#1763#0" expanded="false" />
+                <element signature="e#2010#2011#0" expanded="false" />
+                <element signature="e#2044#2045#0" expanded="false" />
                 <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="187">
+              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
               <folding>
                 <element signature="method#add#0;class#Queue#0" expanded="false" />
                 <element signature="method#extract#0;class#Queue#0" expanded="false" />
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,9 +72,24 @@
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="e#333#334#0" expanded="false" />
+                <element signature="e#361#362#0" expanded="false" />
+                <element signature="e#389#390#0" expanded="false" />
+                <element signature="e#415#416#0" expanded="false" />
+                <element signature="e#452#453#0" expanded="false" />
+                <element signature="e#483#484#0" expanded="false" />
+                <element signature="e#512#513#0" expanded="false" />
+                <element signature="e#539#540#0" expanded="false" />
+                <element signature="e#577#578#0" expanded="false" />
+                <element signature="e#609#610#0" expanded="false" />
+                <element signature="e#639#640#0" expanded="false" />
+                <element signature="e#667#668#0" expanded="false" />
+                <element signature="e#707#708#0" expanded="false" />
+                <element signature="e#741#742#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,10 +115,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/Queue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/BinarySearchTreeImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/Node.java" />
       </list>
     </option>
   </component>
@@ -119,8 +140,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1378" />
+    <option name="x" value="1" />
+    <option name="y" value="21" />
+    <option name="width" value="1370" />
     <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -148,9 +170,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,7 +262,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RB-tree" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Map" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -704,29 +726,35 @@
       <workItem from="1461144413212" duration="2674000" />
       <workItem from="1461308457187" duration="845000" />
       <workItem from="1461327533463" duration="4486000" />
+      <workItem from="1461528259777" duration="228000" />
+      <workItem from="1461569748109" duration="684000" />
+      <workItem from="1461703664525" duration="876000" />
+      <workItem from="1461747336433" duration="422000" />
+      <workItem from="1461748569815" duration="1555000" />
+      <workItem from="1461755618153" duration="40000" />
+      <workItem from="1461851261129" duration="1554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55526000" />
+    <option name="totallyTimeSpent" value="60885000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="745" extended-state="0" />
+    <frame x="1" y="21" width="1370" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.4969651" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57809985" sideWeight="0.1107739" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34150326" sideWeight="0.8892261" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40359476" sideWeight="0.8892261" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16009104" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15954198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -737,6 +765,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.4969651" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -768,8 +797,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -782,8 +819,6 @@
           <folding>
             <element signature="method#add#0;class#Queue#0" expanded="false" />
             <element signature="method#extract#0;class#Queue#0" expanded="false" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -792,7 +827,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -809,8 +859,16 @@
         <state relative-caret-position="255">
           <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -823,8 +881,6 @@
           <folding>
             <element signature="method#add#0;class#Queue#0" expanded="false" />
             <element signature="method#extract#0;class#Queue#0" expanded="false" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -833,7 +889,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -850,8 +921,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -864,8 +943,6 @@
           <folding>
             <element signature="method#add#0;class#Queue#0" expanded="false" />
             <element signature="method#extract#0;class#Queue#0" expanded="false" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -874,7 +951,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -891,8 +983,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -912,8 +1012,6 @@
           <folding>
             <element signature="method#add#0;class#Queue#0" expanded="false" />
             <element signature="method#extract#0;class#Queue#0" expanded="false" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -922,7 +1020,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -946,8 +1059,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -957,7 +1078,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -981,8 +1117,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -992,7 +1136,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1031,8 +1190,16 @@
         <state relative-caret-position="0">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -1042,7 +1209,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1066,8 +1248,16 @@
         <state relative-caret-position="0">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -1077,7 +1267,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1101,8 +1306,16 @@
         <state relative-caret-position="0">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -1112,7 +1325,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1136,8 +1364,16 @@
         <state relative-caret-position="0">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
             <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
           </folding>
         </state>
@@ -1147,7 +1383,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1173,51 +1424,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/BinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/BinaryTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/BinarySearchTreeImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="1921">
+          <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+          <folding>
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#2010#2011#0" expanded="false" />
+            <element signature="e#2044#2045#0" expanded="false" />
+            <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="method#add#0;class#Queue#0" expanded="false" />
-            <element signature="method#extract#0;class#Queue#0" expanded="false" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/BinarySearchTreeImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
-          <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
           <folding>
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="method#initializeSumArray#0;class#BinarySearchTreeImpl#0" expanded="false" />
+            <element signature="method#add#0;class#Queue#0" expanded="false" />
+            <element signature="method#extract#0;class#Queue#0" expanded="false" />
           </folding>
         </state>
       </provider>

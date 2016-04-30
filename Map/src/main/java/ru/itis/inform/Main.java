@@ -1,8 +1,6 @@
 package ru.itis.inform;
 
-/**
- * Created by Иван on 27.04.2016.
- */
+
 public class Main {
     public static void main(String[] args)
     {
@@ -23,6 +21,13 @@ public class Main {
         hm.add("dsxcxcxfd",11);
         hm.add("fsvddvdvvddffdfvvddsfdfs",85);
         hm.add("aaavvvvvv",74);
+        hm.add("fssdfffcfff",155);
+        hm.add("string",75);
+        hm.add("ccc",154);
+        hm.add("rtyc",1);
+        hm.add("asde",78);
+        hm.add("iii",28000);
+        hm.add("jkl",18);
         hm.show();
     }
 }
