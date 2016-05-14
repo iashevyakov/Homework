@@ -12,6 +12,16 @@ public class Main {
         b.add();
         b.add();
         b.add();
+        b.add();
+        b.add();
+        b.add();
+        b.add();
+        b.add();
+        b.add();
+        b.add();
+        b.add();
+        b.add();
+        b.add();
         b.show();
     }
 }
