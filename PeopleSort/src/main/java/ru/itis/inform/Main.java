@@ -1,19 +1,22 @@
 package ru.itis.inform;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
+import java.io.PrintWriter;
 
 
 public class Main {
+
+
+
     public static void main (String[] args) throws FileNotFoundException
     {
-        HumansReaderWriter humansReaderWriter = new HumansReaderWriter();
+       /*HumansReaderWriter humansReaderWriter = new HumansReaderWriter();
+
 
         LinkedList<Human> first = humansReaderWriter.readHumans("ListMerge1");
         LinkedList<Human> second = humansReaderWriter.readHumans("ListMerge2");
         LinkedList<Human> third = humansReaderWriter.readHumans("ListMerge3");
-
-
 
         HumansSorter humansSorter = new HumansSorter();
 
@@ -29,6 +32,7 @@ public class Main {
 
         humansReaderWriter.writeHumans("MergeOut",result);
         humansReaderWriter.writeHumans("MergeSortOut",mergeresult);
+        */
 
     }
 
