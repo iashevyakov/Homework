@@ -1,2 +1,4 @@
-Age11Name fdfvdfvfvd 
-Age12Name dfvdfvdfv 
+Age 1 Name int 
+Age 11 Name fdfvdfvfvd 
+Age 12 Name dfvdfvdfv 
+Age 67 Name char 

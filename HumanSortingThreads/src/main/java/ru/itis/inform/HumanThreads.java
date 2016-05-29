@@ -2,6 +2,7 @@ package ru.itis.inform;
 import java.io.FileNotFoundException;
 
 public class HumanThreads implements Runnable {
+
      String fileIn = "";
 
      String fileOut = "";
@@ -13,7 +14,9 @@ public class HumanThreads implements Runnable {
      HumansSorter humansSorter = new HumansSorter();
 
     public HumanThreads(String fileName, String outFileName) {
+
         this.fileIn = fileName;
+
         this.fileOut = outFileName;
     }
 

@@ -1,7 +1,14 @@
-Age5Name salahov 
-Age7Name dvdfv 
-Age11Name fdfvdfvfvd 
-Age12Name dfvdfvdfv 
-Age21Name dfvdfvfdvdv 
-Age45Name vdfdvvfvdf 
-Age75Name dvdfvdvf 
+Age 1 Name int 
+Age 3 Name semenov 
+Age 5 Name salahov 
+Age 7 Name dvdfv 
+Age 11 Name fdfvdfvfvd 
+Age 12 Name dfvdfvdfv 
+Age 21 Name dfvdfvfdvdv 
+Age 23 Name string 
+Age 26 Name sirnikov 
+Age 37 Name major 
+Age 45 Name vdfdvvfvdf 
+Age 67 Name char 
+Age 75 Name dvdfvdvf 
+Age 96 Name boolean 

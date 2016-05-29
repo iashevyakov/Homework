@@ -1,2 +1,3 @@
-Age5Name salahov 
-Age7Name dvdfv 
+Age 5 Name salahov 
+Age 7 Name dvdfv 
+Age 37 Name major 

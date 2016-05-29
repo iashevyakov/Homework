@@ -1,2 +1,3 @@
-5 salahov
-7 dvdfv
+5 linkedlist
+7 massiv
+37 array

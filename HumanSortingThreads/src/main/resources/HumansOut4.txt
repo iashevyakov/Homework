@@ -1,1 +1,5 @@
+Age 3 Name semenov 
+Age 23 Name string 
+Age 26 Name sirnikov 
 Age 75 Name dvdfvdvf 
+Age 96 Name boolean 

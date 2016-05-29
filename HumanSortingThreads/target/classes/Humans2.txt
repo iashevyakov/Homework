@@ -1,2 +1,4 @@
 11 fdfvdfvfvd
 12 dfvdfvdfv
+1 int
+67 char

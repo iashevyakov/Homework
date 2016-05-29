@@ -1,1 +1,5 @@
 75 dvdfvdvf
+26 sirnikov
+3 semenov
+96 boolean
+23 string
